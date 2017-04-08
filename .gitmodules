@@ -1,0 +1,15 @@
+[submodule "src/github.com/CharlesHolbrow/aether-http"]
+	path = src/github.com/CharlesHolbrow/aether-http
+	url = git@github.com:CharlesHolbrow/aether-http.git
+[submodule "src/github.com/CharlesHolbrow/realtime-fft-experiment"]
+	path = src/github.com/CharlesHolbrow/realtime-fft-experiment
+	url = git@github.com:CharlesHolbrow/realtime-fft-experiment.git
+[submodule "realtime-fft-experiment"]
+	path = realtime-fft-experiment
+	url = git@github.com:CharlesHolbrow/realtime-fft-experiment.git
+[submodule "src/github.com/CharlesHolbrow/aether"]
+	path = src/github.com/CharlesHolbrow/aether
+	url = git@github.com:CharlesHolbrow/aether.git
+[submodule "src/github.com/CharlesHolbrow/aether-midi"]
+	path = src/github.com/CharlesHolbrow/aether-midi
+	url = git@github.com:CharlesHolbrow/aether-midi.git
